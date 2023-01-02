@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": false,
+  "workbench.list.smoothScrolling": false
+}
